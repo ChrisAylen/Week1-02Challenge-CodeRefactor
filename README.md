@@ -1,7 +1,7 @@
 # This project is a simple refactor of a company website to complete the following user story:
 
 # User Story
-
+```
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our site is optimized for search engines
@@ -9,7 +9,7 @@ SO THAT our site is optimized for search engines
 
 
 # Acceptance Criteria
-
+```
 GIVEN a webpage that meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
