@@ -1,5 +1,7 @@
 # This project is a simple refactor of a company website to complete the following user story:
 
+Github page can be found here: https://chrisaylen.github.io/Week1-02Challenge-CodeRefactor/
+
 # User Story
 
 ```
